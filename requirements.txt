@@ -5,3 +5,6 @@ scipy
 seaborn
 pingouin
 scikit-learn
+xgboost
+catboost
+lightgbm
