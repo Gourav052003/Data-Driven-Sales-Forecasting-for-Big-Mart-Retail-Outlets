@@ -50,3 +50,68 @@ Big-Mart-Sales-Prediction/
 └── requirements.txt       # Dependencies for the project
 ```
 
+
+## Modeling Approach
+
+1. **Exploratory Data Analysis (EDA)**: 
+   - Analyze the distribution of product attributes and sales.
+   - Handle missing values, outliers, and feature transformations.
+   
+2. **Feature Engineering**:
+   - Create new features from existing attributes, such as age of the outlet and item categories.
+   - Encode categorical features using techniques like one-hot encoding and label encoding.
+   
+3. **Model Selection**:
+   - Tried multiple machine learning algorithms such as:
+     - Linear Regression
+     - Decision Tree
+     - Random Forest
+     - XGBoost
+
+4. **Model Evaluation**:
+   - Models were evaluated using metrics like RMSE (Root Mean Squared Error) and R-squared.
+
+## Technologies Used
+
+- **Python**: Programming language
+- **Pandas & NumPy**: For data manipulation and preprocessing
+- **Matplotlib & Seaborn**: For visualizations
+- **Scikit-learn**: Machine learning algorithms
+- **XGBoost**: Advanced gradient boosting algorithm
+- **Jupyter Notebooks**: For interactive data exploration
+- **Streamlit**: (optional) To create a web app for visualization (if used)
+
+## How to Use
+
+1. **Clone the repository**:
+   ```
+   git clone https://github.com/Gourav052003/Data-Driven-Sales-Forecasting-for-Big-Mart-Retail-Outlets.git
+   ```
+
+2. **Install dependencies**:
+
+   ```
+   pip install -r requirements.txt
+   ```
+   
+3. **Run the notebooks**: Open the Jupyter notebooks for data exploration, feature engineering, and model training.
+
+4. **Predict sales**: Run the model training script in the src/ directory and use the trained model to predict sales for new data.
+
+# Results
+The best model achieved a RMSE of X.XX on the test set. The model was able to capture the general trends in sales, but there is room for improvement in handling the variability for certain products.
+
+# Conclusion
+This project successfully demonstrates the process of building a predictive model for retail sales forecasting. By applying data preprocessing, feature engineering, and experimenting with different machine learning algorithms, the project provides insights into how product attributes and store information can be used to predict sales.
+
+# Future Improvements
+Incorporate more external factors such as seasonality, holiday effects, and promotions.
+Experiment with advanced time series techniques or deep learning models.
+Optimize hyperparameters using more advanced search techniques like Bayesian Optimization.
+# Contact
+For any questions or collaboration opportunities, feel free to reach out:
+
+Name: [Gourav]
+Email: [gourav052003@gmail.com]
+LinkedIn: [linkedin.com/in/gourav-kashyap-data-scientist-analytics]
+GitHub: [github.com/Gourav052003]
