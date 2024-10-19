@@ -99,7 +99,7 @@ Big-Mart-Sales-Prediction/
 4. **Predict sales**: Run the model training script in the src/ directory and use the trained model to predict sales for new data.
 
 # Results
-The best model achieved a RMSE of X.XX on the test set. The model was able to capture the general trends in sales, but there is room for improvement in handling the variability for certain products.
+The best model achieved a RMSE of 0.087 on the test set. The model was able to capture the general trends in sales, but there is room for improvement in handling the variability for certain products.
 
 # Conclusion
 This project successfully demonstrates the process of building a predictive model for retail sales forecasting. By applying data preprocessing, feature engineering, and experimenting with different machine learning algorithms, the project provides insights into how product attributes and store information can be used to predict sales.
@@ -111,7 +111,6 @@ Optimize hyperparameters using more advanced search techniques like Bayesian Opt
 # Contact
 For any questions or collaboration opportunities, feel free to reach out:
 
-* Name: [Gourav]
 * Email: [gourav052003@gmail.com]
 * LinkedIn: [linkedin.com/in/gourav-kashyap-data-scientist-analytics](https://www.linkedin.com/in/gourav-kashyap-data-scientist-analytics/)
 * GitHub: [github.com/Gourav052003]({https://github.com/Gourav052003)
