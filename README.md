@@ -111,7 +111,7 @@ Optimize hyperparameters using more advanced search techniques like Bayesian Opt
 # Contact
 For any questions or collaboration opportunities, feel free to reach out:
 
-Name: [Gourav]
-Email: [gourav052003@gmail.com]
-LinkedIn: [linkedin.com/in/gourav-kashyap-data-scientist-analytics]
-GitHub: [github.com/Gourav052003]
+* Name: [Gourav]
+* Email: [gourav052003@gmail.com]
+* LinkedIn: [linkedin.com/in/gourav-kashyap-data-scientist-analytics](https://www.linkedin.com/in/gourav-kashyap-data-scientist-analytics/)
+* GitHub: [github.com/Gourav052003]({https://github.com/Gourav052003)
