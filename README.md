@@ -38,6 +38,7 @@ The dataset used for this project contains the following features:
 You can find the dataset [here](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/).
 
 ## Project Structure
+```
 Big-Mart-Sales-Prediction/
 │
 ├── data/                  # Dataset and data preparation scripts
@@ -47,5 +48,5 @@ Big-Mart-Sales-Prediction/
 ├── results/               # Output results and visualizations
 ├── README.md              # Project description and instructions
 └── requirements.txt       # Dependencies for the project
-
+```
 
